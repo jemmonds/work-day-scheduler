@@ -3,6 +3,6 @@ In this challenge I had to create a work day scheduler. This schedule incorporat
 
 
 
-![Schedule](<../Screenshot 2024-02-11 130016.png>)
+![alt text](<images/Screenshot 2024-02-11 130016.png>)
 
 https://jemmonds.github.io/work-day-scheduler/
